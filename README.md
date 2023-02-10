@@ -1,3 +1,3 @@
 # Marine Robotics - project
 
-Lecturers: doc. dr. sc. Đula Nađ
+Lecturers: prof. dr. sc. Nikola Mišković and doc. dr. sc. Đula Nađ
